@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Portfolio Challenge From DevChallenges</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/femakin/PortfolioDevchallenge">
       Solution
     </a>
     <span> | </span>
@@ -37,13 +37,14 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Desktop View](https://res.cloudinary.com/femakin/image/upload/v1609411491/portfolio1_pgfh1a.jpg)
+![Mobile View](https://res.cloudinary.com/femakin/image/upload/v1609411513/portfolio2_c6dgkk.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
+- Where can I see your demo? Please click on the Demo link above.
+- What was your experience? This challenge was a bit challenging but all thanks to Alighty Flexbox.
+- What have you learned/improved? Really improved on my Flexbox
 - Your wisdom? :)
 
 ### Built With
@@ -51,8 +52,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [CSS]
 
 ## Features
 
@@ -87,6 +87,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website (https://femiakinyemi.netlify.app/)
+- GitHub (https://github.com/femakin/)
+- Twitter (https://twitter.com/akinyemi_t)

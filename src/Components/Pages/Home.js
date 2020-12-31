@@ -5,9 +5,9 @@ import photo3 from "../Images/photo3.jpeg";
 import photo4 from "../Images/photo4.jpeg";
 import photo5 from "../Images/photo5.jpeg";
 import photo6 from "../Images/photo6.webp";
-import photo7 from '../Images/photo7.jpeg';
-import photo8 from '../Images/photo9.jpeg';
-import photo9 from '../Images/photo9.jpeg';
+// import photo7 from '../Images/photo7.jpeg';
+// import photo8 from '../Images/photo9.jpeg';
+// import photo9 from '../Images/photo9.jpeg';
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
